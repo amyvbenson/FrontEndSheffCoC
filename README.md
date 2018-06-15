@@ -1,6 +1,6 @@
 # Front End Sheffield
 
-Front End Sheffield is a bi-monthly event which alternates with Sheffield JS. See our Meetup page for details https://www.meetup.com/Front-End-Sheffield/events/246725863/
+Front End Sheffield is a bi-monthly event which alternates with Sheffield JS. See our Meetup page for details https://www.meetup.com/Front-End-Sheffield
 
 ## Code of Conduct
 
