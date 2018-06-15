@@ -8,11 +8,11 @@ All attendees, speakers, sponsors and volunteers at our event are required to ag
 
 ### Need Help?
 
-Contact us at frontendsheff@gmail.com, on twitter @FrontEndSheff or talk to one of the event organisers (we'll introduce ourselves at the start of the event).
+Contact us at frontendsheff@gmail.com, on twitter @FrontEndSheff or talk to one of the event organisers (we'll introduce ourselves at the start of each event).
 
 ### The Quick Version
 
-Our event is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event attendees in any form. Sexual language and imagery is not appropriate including talks, workshops, parties, Twitter and other online media associated with the event. Attendees violating these rules may be expelled from the event at the discretion of the organisers.
+Our event is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event attendees in any form. Sexual language and imagery is not appropriate including talks, workshops, parties, socials, Twitter and other online media associated with the event. Attendees violating these rules may be expelled from the event at the discretion of the organisers.
 
 ### The Less Quick Version
 
@@ -28,6 +28,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Event staff will be happy to assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
-We expect participants to follow these rules at event venues and event-related social events.
+We expect participants to follow these rules at event venues as well as at any social events related to the event.
+
+We also would appreciate it if any questions are left until the end of the talk during the Q&A segment (if the speaker is happy to do one) or during the social that follows the event. The exception to this rule is if a speaker welcomes such interuptions - they will inform attendees if this is the case at the start of their talk.
 
 This Code of Conduct is adapted from http://confcodeofconduct.com/
