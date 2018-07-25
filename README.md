@@ -1,6 +1,6 @@
 # Front End Sheffield
 
-Front End Sheffield is a bi-monthly event which alternates with Sheffield JS. See our Meetup page for details https://www.meetup.com/Front-End-Sheffield
+**Front End Sheffield** is a monthly event. See [our Meetup page](https://www.meetup.com/Front-End-Sheffield) for details.
 
 ## Code of Conduct
 
@@ -8,7 +8,7 @@ All attendees, speakers, sponsors and volunteers at our event are required to ag
 
 ### Need Help?
 
-Contact us at frontendsheff@gmail.com, on twitter @FrontEndSheff or talk to one of the event organisers (we'll introduce ourselves at the start of each event).
+Contact us at frontendsheff@gmail.com, on Twitter [@FrontEndSheff](http://www.twitter.com/frontendsheff) or talk to one of the event organisers (we'll introduce ourselves at the start of each event).
 
 ### The Quick Version
 
