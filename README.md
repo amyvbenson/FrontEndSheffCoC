@@ -12,7 +12,7 @@ Contact us at frontendsheff@gmail.com, on Twitter [@FrontEndSheff](http://www.tw
 
 ### The Quick Version
 
-Our event is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event attendees in any form. Sexual language and imagery is not appropriate including talks, workshops, parties, socials, Twitter and other online media associated with the event. Attendees violating these rules may be expelled from the event at the discretion of the organisers.
+Our event is dedicated to providing a harassment-free experience for everyone, regardless of gender identity and expression, age, sexual orientation, disability, appearance, ethnicity, race, religion or technology choices. We do not tolerate harassment of event attendees. Sexual language and imagery is not appropriate including talks, workshops, socials and on online media associated with the event. Attendees violating these rules may be expelled from the event at the discretion of the organisers.
 
 ### The Less Quick Version
 
